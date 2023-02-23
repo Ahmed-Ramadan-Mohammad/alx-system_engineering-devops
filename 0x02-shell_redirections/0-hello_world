@@ -1,2 +1,2 @@
-just test
-another one
+#!/bin/bash
+echo -e "Hello, World\n"
